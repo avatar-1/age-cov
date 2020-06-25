@@ -35,6 +35,9 @@ Differential gene expression analysis was perfomed in `R 4.0` using [EdgeR](http
 Functional enrichment analysis of differentially expressed genes was perfomed using [gProfiler](https://biit.cs.ut.ee/gprofiler/) and [GSEA](https://www.gsea-msigdb.org/gsea/index.jsp).
 
 ## Reference data
+
 1. Human reference genome devoid of Alt-contigs was downloaded from [NCBI GenBank](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.15_GRCh38/seqs_for_alignment_pipelines.ucsc_ids/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna.gz)
+1. Human RefSeq annotations were downloaded from [UCSC database](http://hgdownload.soe.ucsc.edu/goldenPath/hg38/bigZips/genes/hg38.ncbiRefSeq.gtf.gz)
 1. SARS-CoV-2 assembly (GCF_009858895.2_ASM985889v3) downloaded from [NCBI RefSeq](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3/GCF_009858895.2_ASM985889v3_genomic.fna.gz)
-1. SARS-CoV-2 annotations (gff and gtf file) was from [NCBI RefSeq](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3)
+1. SARS-CoV-2 annotations (gtf file) was from [NCBI RefSeq](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/858/895/GCF_009858895.2_ASM985889v3)
+
