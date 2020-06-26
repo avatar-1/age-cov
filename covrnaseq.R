@@ -3,6 +3,7 @@ library(edgeR)
 library(plotly)
 library(gprofiler2)
 library(gplots)
+library(RUVSeq)
 
 sampleinfo <- read.table("metadata.txt", header = T, sep = "\t")
 ##dashes replaced with dots and start digits removed
@@ -36,7 +37,7 @@ sampleinfo <- sampleinfo[match(colnames(lcounts), sampleinfo$fname),]
 
 dge <- DGEList(counts = as.matrix(lcounts), lib.size = sampleinfo$readcounts, group = sampleinfo$laneid)
 dge <- calcNormFactors(dge)
-design <- model.matrix(~ 0 + sampleinfo$laneid + sampleinfo$treatment + sampleinfo$technicalrepid)
+design <- model.matrix(~ 0 + sampleinfo$laneid + sampleinfo$treatment + sampleinfo$agegroup)
 dge <- estimateGLMCommonDisp(dge, design)
 dge <- estimateGLMTagwiseDisp(dge, design)
 fit <- glmFit(dge, design)
@@ -57,7 +58,7 @@ if (! is.null(negativefc)){
   
 write.table(dx, file = "diffex.txt", col.names = T, row.names = T, quote = F, sep = "\t")
 
-plotMDS(dge, labels = sampleinfo[match(row.names(dge$samples), sampleinfo$fname),"treatment"])
+plotMDS(dge, labels = sampleinfo$individualid)
 
 x <- cpm.DGEList(dge, normalized.lib.sizes = T, log = T)
 dxgenes <- x[dx %>% filter(FDR <= 0.05) %>% .$gid,]
