@@ -1,0 +1,7 @@
+label	condition	replicate
+V_OA_JW	Virus_OA	2
+V_OA_NiT	Virus_OA	1
+V_OA_WB	Virus_OA	3
+M_OA_JW	Mock_OA	2
+M_OA_NiT	Mock_OA	1
+M_OA_WB	Mock_OA	3

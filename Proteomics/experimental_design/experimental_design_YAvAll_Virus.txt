@@ -1,0 +1,12 @@
+label	condition	replicate
+V_YA_17AC	YA	1
+V_YA_BC	YA	4
+V_YA_NA	YA	2
+V_YA_SB	YA	3
+V_CH_376AC	All	1
+V_CH_AM	All	2
+V_CH_IB	All	3
+V_OA_JW	All	4
+V_OA_NiT	All	5
+V_OA_WB	All	6
+M_CH_IB	Mock_CH	2

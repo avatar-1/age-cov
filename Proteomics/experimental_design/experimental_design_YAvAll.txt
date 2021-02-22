@@ -1,0 +1,11 @@
+label	condition	replicate
+M_YA_17AC	YA	1
+M_YA_17ACr	YA	2
+M_YA_NA	YA	3
+M_YA_SB	YA	4
+M_CH_376AC	All	1
+M_CH_IB	All	2
+M_OA_JW	All	3
+M_OA_NiT	All	4
+M_OA_WB	All	5
+V_CH_376AC	Virus	1

@@ -1,0 +1,6 @@
+label	condition	replicate
+V_CH_376AC	Virus_CH	3
+V_CH_AM	Virus_CH	5
+V_CH_IB	Virus_CH	2
+M_CH_376AC	Mock_CH	3
+M_CH_IB	Mock_CH	2

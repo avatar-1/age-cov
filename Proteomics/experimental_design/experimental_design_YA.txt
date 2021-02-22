@@ -1,0 +1,9 @@
+label	condition	replicate
+V_YA_17AC	Virus	1
+V_YA_BC	Virus	2
+V_YA_NA	Virus	3
+V_YA_SB	Virus	4
+M_YA_17AC	Mock	1
+M_YA_17ACr	Mock	2
+M_YA_NA	Mock	3
+M_YA_SB	Mock	4
