@@ -3,7 +3,7 @@ RNA-seq and proteomic analysis of SARS-CoV-2 infected primary differentiated air
 
 ## Transcriptomic analysis
 
-Scripts used to analyse the RNA-seq data is available in the **Transcriptomics** folder.
+Scripts used to analyse the RNA-seq data is available in the [**RNA-seq**](https://github.com/avatar-1/age-cov/tree/master/RNA-seq) folder.
 
 ### Genome alignment
 
@@ -40,12 +40,12 @@ Differential gene expression analysis was perfomed in `R 4.0` using [EdgeR](http
 
 ## Proteomics analysis
 
-Scripts used to analyse the RNA-seq data is available in the **Proteomics** folder.
+Scripts used to analyse the RNA-seq data is available in the [**Proteomics**](https://github.com/avatar-1/age-cov/tree/master/Proteomics) folder.
 
 ### Mass spectrometry protein identification and quantification
 
 Raw mass spectrometry peak lists was analysed using [MaxQuant](https://www.maxquant.org/) (v.1.6.2.10) against the human Swiss-Prot database [UP000005640](https://www.uniprot.org/proteomes/UP000005640) and SARS-CoV-2 Swiss-Prot database [UP000464024](https://www.uniprot.org/proteomes/UP000464024). 
 
-Differential protein expression analysis was performed with the `R` package [`DEP`](https://github.com/arnesmits/DEP) (v.1.10.0). 
+Differential protein expression analysis was performed with the `R` package [DEP](https://github.com/arnesmits/DEP) (v.1.10.0). 
 
 Functional analysis of differentially abundant proteins was performed with IPA. Graphs were plotted in `R` using `ggplot2`. 
