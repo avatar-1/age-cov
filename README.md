@@ -31,6 +31,17 @@ featureCounts -O -M -s 2 -a hg38.sarscov2.refseq.gtf -o counts.txt subread_align
 
 Differential gene expression analysis was perfomed in `R 4.0` using [EdgeR](https://www.bioconductor.org/packages/release/bioc/html/edgeR.html) (v3.30.3) using the generalized log-linear model (glm) method. Plots were created using [ggplot2](https://ggplot2.tidyverse.org/).
 
+### Intron retention analysis ###
+
+Intron retention analysis was performed with [rMATS](http://rnaseq-mats.sourceforge.net/) (v4.0.2). 
+
+```
+python rmats.py --b1 bam_inputs_all.txt \
+--gtf GCF_000001405.39_GRCh38.p13_genomic.gtf \
+-t single --libType fr-firststrand --readLength 76 \
+--nthread 16 --od --statoff
+```
+
 ### Reference data
 
 1. Human reference genome devoid of Alt-contigs was downloaded from [NCBI GenBank](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/001/405/GCA_000001405.15_GRCh38/seqs_for_alignment_pipelines.ucsc_ids/GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna.gz)
@@ -48,4 +59,4 @@ Raw mass spectrometry peak lists was analysed using [MaxQuant](https://www.maxqu
 
 Differential protein expression analysis was performed with the `R` package [DEP](https://github.com/arnesmits/DEP) (v.1.10.0). 
 
-Functional analysis of differentially abundant proteins was performed with IPA. Graphs were plotted in `R` using `ggplot2`. 
+Functional analysis of differentially abundant proteins was performed with IPA. Graphs were plotted in `R` using `ggplot2`.
