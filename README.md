@@ -38,8 +38,8 @@ Intron retention analysis was performed with [rMATS](http://rnaseq-mats.sourcefo
 ```
 python rmats.py --b1 bam_inputs_all.txt \
 --gtf GCF_000001405.39_GRCh38.p13_genomic.gtf \
--t single --libType fr-firststrand --readLength 76 \
---nthread 16 --od --statoff
+-t single --libType fr-firststrand \
+--readLength 76 --od --statoff \
 ```
 
 ### Reference data
