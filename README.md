@@ -10,13 +10,17 @@ Scripts used to analyse the RNA-seq data is available in the [**RNA-seq**](https
 Reads were aligned to the human reference genome (GRCh38, GCA_000001405.15_GRCh38_no_alt_plus_hs38d1_analysis_set.fna) combined with the SARS-CoV-2 assembly (NC_045512.2, GCF_009858895.2_ASM985889v3) with `subread-align` within the [Subread](http://bioinf.wehi.edu.au/subread/) (v2.0.1) package. Y-chromsosome-derived sequences were hard masked in the reference genome or alignments of female samples to ensure accuracy for RNA quantitation.
 
 ```
-subread-align -t 0 --multiMapping -B 1 -i hg38.sarscov2_index -a hg38.sarscov2.refseq.gtf -r reads.fastq.gz -o subread_aligned.bam
+subread-align -t 0 --multiMapping -B 1 \
+-i hg38.sarscov2_index -a hg38.sarscov2.refseq.gtf \
+-r reads.fastq.gz -o subread_aligned.bam
 ```
 
 For intron retention analysis, reads were aligned to the human reference genome with the splice-aware alignment tool [STAR](https://github.com/alexdobin/STAR).
 
 ```
-STAR --runMode alignReads --genomeLoad  LoadAndKeep --readFilesCommand zcat --outSAMtype BAM Unsorted --genomeDir hg38_index --readFilesIn reads.fastq.gz
+STAR --runMode alignReads --genomeLoad  LoadAndKeep \
+--readFilesCommand zcat --outSAMtype BAM Unsorted \
+--genomeDir hg38_index --readFilesIn reads.fastq.gz 
 ```
 
 ### Read counting
@@ -24,7 +28,8 @@ STAR --runMode alignReads --genomeLoad  LoadAndKeep --readFilesCommand zcat --ou
 Aligned reads were counted at genomic regions using featureCounts within the `Subread` package.
 
 ```
-featureCounts -O -M -s 2 -a hg38.sarscov2.refseq.gtf -o counts.txt subread_aligned.bam
+featureCounts -O -M -s 2 -a hg38.sarscov2.refseq.gtf \
+-o counts.txt subread_aligned.bam
 ```
 
 ### Differential gene expression analysis
