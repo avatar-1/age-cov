@@ -69,7 +69,7 @@ colnames(prot2name_map) <- c("UniProt.ID", "Gene")
 DrugBank <- read.csv("./input/uniprot links.csv", header = T)
 db <- merge(as.data.table(DrugBank),as.data.table(prot2name_map), by.x = "UniProt.ID", by.y = "UniProt.ID", all.x = TRUE, all.y = F)
 
-expr <- read.csv("./input/expr.csv", header = T, row.names = 1)
+expr <- read.csv("./input/cpm.csv", header = T, row.names = 1)
 expr <- expr[,which(is.na(str_extract(colnames(expr), "Mock")))] # Exclude Mock
 expr <- expr[,which(is.na(str_extract(colnames(expr), "_B_")))] # Exclude _B_
 expr <- 2^expr
