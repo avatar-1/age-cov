@@ -22,7 +22,8 @@ sinfo <- read.table(file= "sampleinfo.txt", sep="\t", header=T)
 log2lfq <- read.table(file="log2_lfq.txt", sep = "\t", header=T)
 
 # Create LFG intensity file ####
-data <- read.table(file = "proteinGroups.txt", sep = "\t", header = TRUE)
+data <- read.table(file="proteinGroups.txt",sep="\t",header=TRUE)
+
 sinfo <- read.table(file= "sampleinfo.txt", sep="\t", header=T)
 
 data <- data[data$Reverse != "+" & data$Potential.contaminant != "+" & data$Unique.peptides >= 2,]
