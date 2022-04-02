@@ -11,7 +11,10 @@ library(ComplexHeatmap)
 drugs <- read.csv("./input/drugs.csv", header = T)
 sars_human_ppi <- read.csv("./input/sars-cov2_human_ppi.csv", header = T)
 disease <- unique(sars_human_ppi$Human)
-human_ppi <- read.csv("./input/human_ppi.csv", header = T)
+human_ppi1 <- read.csv("./input/human_ppi1.csv", header = T)
+human_ppi2 <- read.csv("./input/human_ppi2.csv", header = T)
+human_ppi <- rbind(human_ppi1,human_ppi2)
+
 prot2name_map <- unique(rbind(data.frame(UniProt.ID = human_ppi$uniprot1, Gene = human_ppi$symbol1),
                               data.frame(UniProt.ID = human_ppi$uniprot2, Gene = human_ppi$symbol2)))
 DrugBank <- read.csv("./input/uniprot links.csv", header = T)
