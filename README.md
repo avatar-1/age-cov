@@ -15,14 +15,6 @@ subread-align -t 0 --multiMapping -B 1 \
 -r reads.fastq.gz -o subread_aligned.bam
 ```
 
-For intron retention analysis, reads were aligned to the human reference genome with the splice-aware alignment tool [STAR](https://github.com/alexdobin/STAR).
-
-```
-STAR --runMode alignReads --genomeLoad  LoadAndKeep \
---readFilesCommand zcat --outSAMtype BAM Unsorted \
---genomeDir hg38_index --readFilesIn reads.fastq.gz 
-```
-
 ### Read counting
 
 Aligned reads were counted at genomic regions using featureCounts within the `Subread` package.
@@ -35,17 +27,6 @@ featureCounts -O -M -s 2 -a hg38.sarscov2.refseq.gtf \
 ### Differential gene expression analysis
 
 Differential gene expression analysis was perfomed in `R 4.0` using [EdgeR](https://www.bioconductor.org/packages/release/bioc/html/edgeR.html) (v3.30.3) using the generalized log-linear model (glm) method. Plots were created using [ggplot2](https://ggplot2.tidyverse.org/).
-
-### Intron retention analysis ###
-
-Intron retention analysis was performed with [rMATS](http://rnaseq-mats.sourceforge.net/) (v4.0.2). 
-
-```
-python rmats.py --b1 bam_inputs_all.txt \
---gtf GCF_000001405.39_GRCh38.p13_genomic.gtf \
--t single --libType fr-firststrand \
---readLength 76 --od --statoff \
-```
 
 ### Reference data
 
