@@ -1,0 +1,1730 @@
+DrugBankID,Name,Source,Source_link,Groups,Therap_Class,Indication(s)
+DB12695,Phenethyl Isothiocyanate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Noxae,
+DB02709,Resveratrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,
+DB05785,LGD-1550,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB00619,Imatinib,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Chronic myelogenous leukaemia
+Intestinal cancer
+Lung cancer
+Systemic mastocytosis
+"
+DB06733,Bafilomycin A1,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Lactones,
+DB00570,Vinblastine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticancer Agents,"
+Solid tumour/cancer
+"
+DB06734,Bafilomycin B1,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Lactones,
+DB04216,Quercetin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",Hypoglycemic Agents,"
+Obesity
+"
+DB00811,Ribavirin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiviral Agents,"
+Hepatitis C virus infection
+"
+DB02733,Purvalanol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01169,Arsenic trioxide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Acute lymphoblastic leukaemia
+"
+DB03147,Flavin adenine dinucleotide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Flavins,
+DB02201,Malonate Ion,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03070,Selenazole-4-carboxyamide-adenine dinucleotide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Selenium Compounds,
+DB00321,Amitriptyline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Analgesics,"
+Depression
+"
+DB00608,Chloroquine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antimalarials,"
+Malaria
+"
+DB00841,Dobutamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Cardiotonic Agents,"
+Heart failure
+"
+DB04207,L-Saccharopine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amino Acids,
+DB02615,Compound 19,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02910,Octanoyl-Coenzyme A,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB07584,"N-[2-(5-methyl-4H-1,2,4-triazol-3-yl)phenyl]-7H-pyrrolo[2,3-d]pyrimidin-4-amine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00091,Cyclosporine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Immunosuppressive Agents,"
+Psoriasis vulgaris
+Xerophthalmia
+"
+DB01645,Genistein,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,"
+Prostate cancer
+"
+DB03478,2'-O-Acetyl Adenosine-5-Diphosphoribose,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02338,NADPH,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB08813,Nadroparin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Heparin group,
+DB00736,Esomeprazole,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antiulcer Agents,"
+Peptic ulcer
+"
+DB00118,Ademetionine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Amino acids and derivatives,"
+Cerebrovascular ischaemia
+"
+DB01024,Mycophenolic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Selective immunosuppressants,
+DB06103,VX-148,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Benzene Derivatives,"
+Psoriasis vulgaris
+"
+DB00156,Threonine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical",Amino Acids,
+DB03948,"6-Chloropurine Riboside, 5'-Monophosphate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01029,Irbesartan,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB07585,"5-(5-chloro-7H-pyrrolo[2,3-d]pyrimidin-4-yl)-4,5,6,7-tetrahydro-1H-imidazo[4,5-c]pyridine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02116,Olomoucine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB00864,Tacrolimus,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunosuppressive Agents,"
+Ocular allergy
+Organ transplant rejection
+"
+DB04566,Inosinic Acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02035,Hexadecanesulfonyl fluoride,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Lipids,
+DB00852,Pseudoephedrine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Sympathomimetics,"
+Nasal congestion
+"
+DB00390,Digoxin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiarrhythmic Agents,"
+Arrhythmia
+Congestive cardiac insufficiency
+Heart failure
+"
+DB03904,Urea,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Carbamide products,"
+Dermatological disease
+"
+DB07715,Emodin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Cascara,
+DB01196,Estramustine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Prostate cancer
+"
+DB07931,Hexestrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,withdrawn,Hormones,
+DB01430,Almitrine,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinflammatory Agents,"
+Chronic obstructive pulmonary disease
+"
+DB06401,Bazedoxifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Selective estrogen receptor modulators,"
+Osteopetrosis
+"
+DB00756,Hexachlorophene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Antiinfective Agents,"
+Bacterial infection
+"
+DB01303,Oxtriphylline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Bronchodilator Agents,"
+Cough
+"
+DB00851,Dacarbazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Melanoma
+"
+DB04930,Permethrin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Insecticides,"
+Sarcoptes scabiei infection
+"
+DB09535,Octocrylene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational","Acids, Acyclic",
+DB01087,Primaquine,DrugBank,https://www.drugbank.ca/covid-19,approved,Antimalarials,"
+Malaria
+"
+DB04912,Stannsoporfin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Porphyrins,"
+Neonatal hyperbilirubinemia
+"
+DB06195,Seliciclib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Purines,
+DB13943,Testosterone cypionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hormones,
+DB01223,Aminophylline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Bronchodilator Agents,"
+Asthma
+Bronchial asthma
+"
+DB00648,Mitotane,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticancer Agents,"
+Adrenocortical carcinoma
+"
+DB01752,S-adenosyl-L-homocysteine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB04574,Estrone sulfate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Estranes,
+DB13951,Stanolone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,P-glycoprotein substrates,
+DB13946,Testosterone undecanoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Hormones,"
+Hypogonadism
+"
+DB09086,Eugenol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Solvents,
+DB01431,Allylestrenol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Estren derivatives,
+DB05966,TAS-108,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB01108,Trilostane,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved,withdrawn",Anticorticosteroids,"
+Cushing disease
+"
+DB01076,Atorvastatin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticholesteremic Agents,"
+Cardiovascular disease
+"
+DB07707,"(9BETA,11ALPHA,13ALPHA,14BETA,17ALPHA)-11-(METHOXYMETHYL)ESTRA-1(10),2,4-TRIENE-3,17-DIOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02059,Adenosine-5-Diphosphoribose,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB09130,Copper,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Food,"
+Contraception
+"
+DB13869,2-Methoxy-6-{(E)-[(4-methylphenyl)imino]methyl}phenol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Benzene Derivatives,
+DB13944,Testosterone enanthate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hormones,
+DB11064,Homosalate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Phenols,
+DB01095,Fluvastatin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticholesteremic Agents,"
+Hypercholesterolaemia
+"
+DB01960,"7-methyl-7,8-dihydroguanosine-5'-diphosphate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00175,Pravastatin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticholesteremic Agents,"
+Hypercholesterolaemia
+"
+DB11942,Selinexor,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",OATP1B3 inhibitors,
+DB07712,3-ETHYL-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01878,Benzophenone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Ketones,
+DB00624,Testosterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",3-oxoandrosten (4) derivatives,"
+Hormone deficiency
+Male hormonal deficiency
+Osteoporosis
+"
+DB00286,Conjugated estrogens,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Natural and semisynthetic estrogens, plain",
+DB00304,Desogestrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Contraceptive Agents,"
+Contraception
+"
+DB01649,7-methyl-GpppA,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00977,Ethinylestradiol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Progestogens and estrogens, fixed combinations",
+DB06249,Arzoxifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Sulfur Compounds,
+DB00957,Norgestimate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Contraceptive Agents,"
+Contraception
+"
+DB02901,Stanolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"illicit,investigational",Androstan derivatives,
+DB04824,Phenolphthalein,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Contact laxatives,"
+Constipation
+"
+DB07087,"4-[(1S,2S,5S,9R)-5-(HYDROXYMETHYL)-8,9-DIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02701,Nicotinamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Inflammatory skin condition
+"
+DB11478,Zeranol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,vet_approved",Phenols,
+DB09371,Norethynodrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Progestogens and estrogens, fixed combinations",
+DB00746,Deferoxamine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Iron chelating agents,
+DB08020,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-6-(METHOXYMETHYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07638,"(3AS,4R,9BR)-2,2-DIFLUORO-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-8-OL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00823,Ethynodiol diacetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Steroids,
+DB02757,Pyrazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Enzyme Inhibitors,
+DB01406,Danazol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Fertility Agents,"
+Breast cancer
+Menorrhagia
+"
+DB05792,Arylacenamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Cycloparaffins,
+DB05487,Custirsen,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,"
+Breast cancer
+Lung cancer
+Prostate cancer
+"
+DB07708,3-CHLORO-2-(4-HYDROXYPHENYL)-2H-INDAZOL-5-OL,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00882,Clomifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Fertility Agents,"
+Female infertility
+"
+DB06174,Noscapine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Opium alkaloids and derivatives,
+DB07933,Erteberel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",Pyrans,"
+Prostate hyperplasia
+"
+DB00539,Toremifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Breast cancer
+"
+DB08360,"2-(4-ETHYLPIPERAZIN-1-YL)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03575,Phencyclidine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,illicit,Piperidines,
+DB05165,LY2275796,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Glycosides,
+DB03035,"1,8-Di-Hydroxy-4-Nitro-Anthraquinone",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04720,"S-METHYL-4,5,6,7-TETRABROMO-BENZIMIDAZOLE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08660,Quinalizarin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Quinones,
+DB00890,Dienestrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Estrogens,"
+Atrophic vaginitis
+"
+DB07086,"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-8-METHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03924,"5,8-Di-Amino-1,4-Dihydroxy-Anthraquinone",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01125,Anisindione,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticoagulants,"
+Coagulation defect
+"
+DB08896,Regorafenib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Protein kinase inhibitors,"
+Metastatic colorectal cancer
+"
+DB08595,"4-[(1S,2R,5S)-4,4,8-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08354,"2-(4-CHLOROBENZYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08338,"19-(cyclopropylamino)-4,6,7,15-tetrahydro-5H-16,1-(azenometheno)-10,14-(metheno)pyrazolo[4,3-o][1,3,9]triazacyclohexadecin-8(9H)-one",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00945,Acetylsalicylic acid,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Platelet aggregation inhibitors excl. heparin,
+DB01765,"(5-Oxo-5,6-Dihydro-Indolo[1,2-a]Quinazolin-7-Yl)-Acetic Acid",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB05882,CHF 4227,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,
+DB08362,"N-(3-(8-CYANO-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZIN-2-YLAMINO)PHENYL)ACETAMIDE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00688,Mycophenolate mofetil,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunosuppressive Agents,"
+Immune System disease
+Organ transplant rejection
+Pemphigus vulgaris
+"
+DB06732,beta-Naphthoflavone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Pyrans,
+DB07195,"4-[(1S,2S,5S)-5-(HYDROXYMETHYL)-6,8,9-TRIMETHYL-3-OXABICYCLO[3.3.1]NON-7-EN-2-YL]PHENOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08353,"2-(CYCLOHEXYLMETHYLAMINO)-4-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04719,"DIMETHYL-(4,5,6,7-TETRABROMO-1H-BENZOIMIDAZOL-2-YL)-AMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08047,"4-[1-allyl-7-(trifluoromethyl)-1H-indazol-3-yl]benzene-1,3-diol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08340,"N,N'-DIPHENYLPYRAZOLO[1,5-A][1,3,5]TRIAZINE-2,4-DIAMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08473,Dichlororibofuranosylbenzimidazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Glycosides,
+DB06898,"4-(2-amino-1-methyl-1H-imidazo[4,5-b]pyridin-6-yl)phenol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02716,7-methyl-guanosine-5'-triphosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02187,Equilin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Estranes,
+DB07802,"3,8-DIBROMO-7-HYDROXY-4-METHYL-2H-CHROMEN-2-ONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07932,"dimethyl (1R,4S)-5,6-bis(4-hydroxyphenyl)-7-oxabicyclo[2.2.1]hepta-2,5-diene-2,3-dicarboxylate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04721,"N1,N2-ETHYLENE-2-METHYLAMINO-4,5,6,7-TETRABROMO-BENZIMIDAZOLE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11619,Gestrinone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antigonadotropins and similar agents,"
+Breast cancer
+"
+DB04803,Verdoheme,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Porphyrins,
+DB04462,Tetrabromo-2-Benzotriazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08320,"DIETHYL (1R,2S,3R,4S)-5,6-BIS(4-HYDROXYPHENYL)-7-OXABICYCLO[2.2.1]HEPT-5-ENE-2,3-DICARBOXYLATE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01185,Fluoxymesterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit",Anabolic Agents,"
+Breast cancer
+"
+DB07462,"(3,4-DIHYDROXY-2-NITROPHENYL)(PHENYL)METHANONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08773,2-(4-hydroxyphenyl)benzo[b]thiophen-6-ol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06871,17-METHYL-17-ALPHA-DIHYDROEQUILENIN,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07678,"(9ALPHA,13BETA,17BETA)-2-[(1Z)-BUT-1-EN-1-YL]ESTRA-1,3,5(10)-TRIENE-3,17-DIOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06641,Perifosine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Anticancer Agents,"
+Solid tumour/cancer
+"
+DB00655,Estrone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antimenopausal Agents,"
+Menopausal and postmenopausal disorder
+"
+DB00367,Levonorgestrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Contraceptive Agents,"
+Contraception
+"
+DB00367,Levonorgestrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational","Progestogens and estrogens, sequential preparations","
+Contraception
+"
+DB02170,"1,8-Di-Hydroxy-4-Nitro-Xanthen-9-One",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00227,Lovastatin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticholesteremic Agents,"
+Cardiovascular disease
+Hypercholesterolaemia
+"
+DB01063,Acetophenazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antipsychotic Agents,"
+Bipolar disorder
+"
+DB08049,"7,8-dihydroxy-4-phenyl-2H-chromen-2-one",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04573,Estriol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estrogens,"
+Hormone deficiency
+"
+DB01104,Sertraline,DrugBank,https://www.drugbank.ca/covid-19,approved,Antidepressants,"
+Depression
+"
+DB14641,Estriol tripropionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00722,Lisinopril,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB00323,Tolcapone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Antiparkinson Agents,"
+Parkinson disease
+"
+DB03906,2-Phenylheme,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07342,1-(adamantan-1-yl)-2-(1H-imidazol-1-yl)ethanone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Cycloparaffins,
+DB02468,12-Phenylheme,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03907,"N-[(E)-3-[(2R,3S,4R,5R)-5-(6-Aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]prop-2-enyl]-2,3-dihydroxy-5-nitrobenzamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11632,Opicapone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other dopaminergic agents,"
+Parkinson disease
+"
+DB00277,Theophylline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Bronchodilator Agents,"
+Chronic obstructive pulmonary disease
+"
+DB06914,"1-({2-[2-(4-CHLOROPHENYL)ETHYL]-1,3-DIOXOLAN-2-YL}METHYL)-1H-IMIDAZOLE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03336,BIA,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,"
+Non-insulin dependent diabetes
+"
+DB02105,"3,5-Dinitrocatechol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Phenols,
+DB08398,"2-Amino-1-methyl-6-phenylimidazo(4,5-b)pyridine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Noxae,
+DB02506,"2,6,8-Trimethyl-3-Amino-9-Benzyl-9-Methoxynonanoic Acid",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08345,"4-(2-(1H-IMIDAZOL-4-YL)ETHYLAMINO)-2-(PHENYLAMINO)PYRAZOLO[1,5-A][1,3,5]TRIAZINE-8-CARBONITRILE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00494,Entacapone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiparkinson Agents,"
+Parkinson disease
+"
+DB06710,Methyltestosterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,3-oxoandrosten (4) derivatives,"
+Solid tumour/cancer
+"
+DB00481,Raloxifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Selective estrogen receptor modulators,"
+Osteoporosis
+Osteoporosis
+"
+DB00499,Flutamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Prostate cancer
+"
+DB00641,Simvastatin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticholesteremic Agents,"
+Hypercholesterolaemia
+"
+DB08048,"4-(6-HYDROXY-1H-INDAZOL-3-YL)BENZENE-1,3-DIOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB05971,Archexin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB00773,Etoposide,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Solid tumour/cancer
+"
+DB00338,Omeprazole,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antiulcer Agents,"
+Gastroesophageal reflux disease
+"
+DB15488,Echinacoside,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Carbohydrates,
+DB02352,3-(Benzyloxy)Pyridin-2-Amine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01428,Oxybenzone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Ketones,
+DB07264,(S)-N-(1-(3-CHLORO-4-FLUOROPHENYL)-2-HYDROXYETHYL)-4-(4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB09095,Difluocortolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,withdrawn","Corticosteroids, potent (group III)",
+DB01177,Idarubicin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Acute myeloid leukaemia
+"
+DB01988,6((S)-3-Benzylpiperazin-1-Yl)-3-(Naphthalen-2-Yl)-4-(Pyridin-4-Yl)Pyrazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06877,"N,N-DIMETHYL-4-(4-PHENYL-1H-PYRAZOL-3-YL)-1H-PYRROLE-2-CARBOXAMIDE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00903,Etacrynic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Aryloxyacetic acid derivatives,
+DB05798,GEM-231,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Glycosides,
+DB03742,Compound 4-D,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00331,Metformin,DrugBank,https://www.drugbank.ca/covid-19,approved,Hypoglycemic Agents,"
+Type-2 diabetes
+"
+DB09091,Tixocortol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Corticosteroids,
+DB06412,Oxymetholone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit",Androstan derivatives,"
+Aplastic anemia
+"
+DB11219,Enzacamene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Ketones,
+DB09317,"Synthetic Conjugated Estrogens, A",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hormones,
+DB07794,"5-(2-PHENYLPYRAZOLO[1,5-A]PYRIDIN-3-YL)-1H-PYRAZOLO[3,4-C]PYRIDAZIN-3-AMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01357,Mestranol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Estrogens,"
+Contraception
+"
+DB07788,"(3R,5Z,8S,9S,11E)-8,9,16-TRIHYDROXY-14-METHOXY-3-METHYL-3,4,9,10-TETRAHYDRO-1H-2-BENZOXACYCLOTETRADECINE-1,7(8H)-DIONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB12941,Darolutamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiandrogens,"
+Prostate cancer
+"
+DB07567,"(2R,3R,4S)-3-(4-HYDROXYPHENYL)-4-METHYL-2-[4-(2-PYRROLIDIN-1-YLETHOXY)PHENYL]CHROMAN-6-OL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07607,4-[5-(3-IODO-PHENYL)-2-(4-METHANESULFINYL-PHENYL)-1H-IMIDAZOL-4-YL]-PYRIDINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08423,[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL][3-(PIPERIDIN-4-YLOXY)PHENYL]METHANONE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB09070,Tibolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other estrogens,"
+Anabolic metabolism
+"
+DB01761,4-[5-[2-(1-Phenyl-Ethylamino)-Pyrimidin-4-Yl]-1-Methyl-4-(3-Trifluoromethylphenyl)-1h-Imidazol-2-Yl]-Piperidine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB09123,Dienogest,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Progestogens and estrogens, sequential preparations",
+DB14542,Hydrocortisone phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Hormones,
+DB00947,Fulvestrant,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Breast cancer
+"
+DB04098,Balanol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Phenols,
+DB07905,"(1aR,8S,13S,14S,15aR)-5,13,14-trihydroxy-3-methoxy-8-methyl-8,9,13,14,15,15a-hexahydro-6H-oxireno[k][2]benzoxacyclotetradecine-6,12(1aH)-dione",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07458,"3-(1H-indol-3-yl)-4-{1-[2-(1-methylpyrrolidin-2-yl)ethyl]-1H-indol-3-yl}-1H-pyrrole-2,5-dione",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00783,Estradiol,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Estrogens,"
+Breast cancer
+"
+DB09369,Polyestradiol phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Estrogens,
+DB04839,Cyproterone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiandrogens and estrogens,
+DB01953,Inhibitor of P38 Kinase,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB12450,Propyl Gallate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Phenols,
+DB06518,R-1487,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyridines,"
+Rheumatoid arthritis
+"
+DB04575,Quinestrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticancer Agents,"
+Breast cancer
+"
+DB11120,Turpentine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,experimental",Oils,
+DB07991,N-[(1R)-3-(4-HYDROXYPHENYL)-1-METHYLPROPYL]-2-(2-PHENYL-1H-INDOL-3-YL)ACETAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06977,(2S)-1-{[5-(1H-Indazol-5-yl)-3-pyridinyl]oxy}-3-(7aH-indol-3-yl)-2-propanamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02715,Compound 18,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Benzoates,
+DB05233,AP1081,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB03044,Doramapimod,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Protein Kinase Inhibitors,
+DB01394,Colchicine,DrugBank,https://www.drugbank.ca/covid-19,approved,Gout Suppressants,"
+Acute gouty arthritis
+"
+DB08091,3-FLUORO-5-MORPHOLIN-4-YL-N-[3-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-5-YL]BENZAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08352,"6-[4-(2-fluorophenyl)-1,3-oxazol-5-yl]-N-(1-methylethyl)-1,3-benzothiazol-2-amine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08093,3-(1-NAPHTHYLMETHOXY)PYRIDIN-2-AMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08242,"N,4-dimethyl-3-[(1-phenyl-1H-pyrazolo[3,4-d]pyrimidin-4-yl)amino]benzamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06940,"N-ethyl-4-{[5-(methoxycarbamoyl)-2-methylphenyl]amino}-5-methylpyrrolo[2,1-f][1,2,4]triazine-6-carboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06374,Elacestrant,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Naphthalenes,
+DB02277,1-(5-Tert-Butyl-2-Methyl-2h-Pyrazol-3-Yl)-3-(4-Chloro-Phenyl)-Urea,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07138,Neflamapimod,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB05662,NP-50301,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,"
+Eye disorder
+"
+DB08395,2-(ETHOXYMETHYL)-4-(4-FLUOROPHENYL)-3-[2-(2-HYDROXYPHENOXY)PYRIMIDIN-4-YL]ISOXAZOL-5(2H)-ONE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07811,"N-cyclopropyl-2',6-dimethyl-4'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-3-carboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11541,Ractopamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,vet_approved,Amines,
+DB06991,"N-[2-methyl-5-(methylcarbamoyl)phenyl]-2-{[(1R)-1-methylpropyl]amino}-1,3-thiazole-5-carboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06176,Romidepsin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other antineoplastic agents,"
+Cutaneous T-cell lymphoma
+Peripheral T-cell lymphoma
+Renal cell carcinoma
+"
+DB09318,"Synthetic Conjugated Estrogens, B",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hormones,
+DB08068,N-[4-CHLORO-3-(PYRIDIN-3-YLOXYMETHYL)-PHENYL]-3-FLUORO-,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04797,Triazolopyridine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07833,"N-(3-cyanophenyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)-4-biphenylcarboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07835,"N~3~-cyclopropyl-N~4~'-(cyclopropylmethyl)-6-methylbiphenyl-3,4'-dicarboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08096,"8-(2-CHLOROPHENYLAMINO)-2-(2,6-DIFLUOROPHENYLAMINO)-9-ETHYL-9H-PURINE-1,7-DIIUM",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01128,Bicalutamide,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Prostate cancer
+"
+DB08064,N-(3-TERT-BUTYL-1H-PYRAZOL-5-YL)-N'-{4-CHLORO-3-[(PYRIDIN-3-YLOXY)METHYL]PHENYL}UREA,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07124,"(2S)-1-(6H-INDOL-3-YL)-3-{[5-(7H-PYRAZOLO[3,4-C]PYRIDIN-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08730,3-FLUORO-5-MORPHOLIN-4-YL-N-[1-(2-PYRIDIN-4-YLETHYL)-1H-INDOL-6-YL]BENZAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01919,Pentanal,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01940,Balanol Analog 2,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02195,"3-(4-Fluorophenyl)-1-Hydroxy-2-(Pyridin-4-Yl)-1h-Pyrrolo[3,2-B]Pyridine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07832,"4-{4-[(5-hydroxy-2-methylphenyl)amino]quinolin-7-yl}-1,3-thiazole-2-carbaldehyde",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02611,Balanol Analog 1,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07235,"N-[(1S)-2-AMINO-1-(2,4-DICHLOROBENZYL)ETHYL]-5-[2-(METHYLAMINO)PYRIMIDIN-4-YL]THIOPHENE-2-CARBOXAMIDE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02984,"4-[3-Methylsulfanylanilino]-6,7-Dimethoxyquinazoline",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07941,PH-797804,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Amides,"
+Chronic obstructive pulmonary disease
+"
+DB01807,"N-[(3Z)-5-Tert-butyl-2-phenyl-1,2-dihydro-3H-pyrazol-3-ylidene]-N'-(4-chlorophenyl)urea",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00687,Fludrocortisone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Cerebral salt-wasting syndrome
+"
+DB08737,"(3AS,4R,9BR)-4-(4-HYDROXYPHENYL)-1,2,3,3A,4,9B-HEXAHYDROCYCLOPENTA[C]CHROMEN-9-OL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07834,"N-(cyclopropylmethyl)-2'-methyl-5'-(5-methyl-1,3,4-oxadiazol-2-yl)biphenyl-4-carboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00269,Chlorotrianisene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"investigational,withdrawn",Anticancer Agents,"
+Menopause symptom
+"
+DB07829,4-[3-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL]PYRIDINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB14544,Hydrocortisone valerate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Hormones,
+DB03980,4-(Fluorophenyl)-1-Cyclopropylmethyl-5-(2-Amino-4-Pyrimidinyl)Imidazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB14543,Hydrocortisone probutate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved","Corticosteroids, moderately potent (group II)",
+DB01948,"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperidin-4-Yl-3,4-Dihydroquinolin-2(1h)-One",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07942,2-fluoro-4-[4-(4-fluorophenyl)-1H-pyrazol-3-yl]pyridine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB12637,Onapristone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Steroids,
+DB07943,SD-0006,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB08522,4-(4-FLUOROPHENYL)-1-CYCLOROPROPYLMETHYL-5-(4-PYRIDYL)-IMIDAZOLE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02873,"1-(2,6-Dichlorophenyl)-5-(2,4-Difluorophenyl)-7-Piperazin-1-Yl-3,4-Dihydroquinazolin-2(1h)-One",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB14540,Hydrocortisone butyrate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved","Corticosteroids, moderately potent (group II)",
+DB02155,3-[(3-sec-butyl-4-hydroxybenzoyl)amino]azepan-4-yl 4-(2-hydroxy-5-methoxybenzoyl)benzoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04938,Ospemifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Selective estrogen receptor modulators,"
+Dyspareunia
+Postmenopausal vaginal atrophy
+"
+DB08095,"3-(2-CHLOROPHENYL)-1-(2-{[(1S)-2-HYDROXY-1,2-DIMETHYLPROPYL]AMINO}PYRIMIDIN-4-YL)-1-(4-METHOXYPHENYL)UREA",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04709,"(3AALPHA,4ALPHA,7ALPHA,7AALPHA)- 3A,4,7,7A-TETRAHYDRO-2-(4-NITRO-1-NAPHTHALENYL)-4,7-ETHANO-1H-ISOINDOLE-1,3(2H)-DIONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08092,3-fluoro-N-1H-indol-5-yl-5-morpholin-4-ylbenzamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB14539,Hydrocortisone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Aerosols,
+DB08351,N-cyclopropyl-4-methyl-3-{2-[(2-morpholin-4-ylethyl)amino]quinazolin-6-yl}benzamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08424,"[5-AMINO-1-(4-FLUOROPHENYL)-1H-PYRAZOL-4-YL](3-{[(2R)-2,3-DIHYDROXYPROPYL]OXY}PHENYL)METHANONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03802,"1-[4-(Octahydro-Pyrido[1,2-a]Pyrazin-2-Yl)-Phenyl]-2-Phenyl-1,2,3,4-Tetrahydro-Isoquinolin-6-Ol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07307,N-cyclopropyl-4-methyl-3-[1-(2-methylphenyl)phthalazin-6-yl]benzamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00072,Trastuzumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anticancer Agents,"
+Breast cancer
+"
+DB00717,Norethisterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Progestogens and estrogens, fixed combinations",
+DB09389,Norgestrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Progestogens and estrogens, fixed combinations",
+DB01026,Ketoconazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antifungal Agents,"
+Fungal infection
+"
+DB02052,Indirubin-3'-monoxime,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amines,
+DB04471,"2-Phenyl-1-[4-(2-Piperidin-1-Yl-Ethoxy)-Phenyl]-1,2,3,4-Tetrahydro-Isoquinolin-6-Ol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01183,Naloxone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Antinarcotic Agents,"
+Narcotic depression
+"
+DB01541,Boldenone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"illicit,vet_approved",Hormones,
+DB00621,Oxandrolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Androstan derivatives,"
+Alcoholic hepatitis
+"
+DB08349,"N-cyclopropyl-3-{[1-(2,4-difluorophenyl)-7-methyl-6-oxo-6,7-dihydro-1H-pyrazolo[3,4-b]pyridin-4-yl]amino}-4-methylbenzamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08035,"1-TERT-BUTYL-3-(2,5-DIMETHYLBENZYL)-1H-PYRAZOLO[3,4-D]PYRIMIDIN-4-AMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB14541,Hydrocortisone cypionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Hormones,
+DB01073,Fludarabine,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Haematological malignancy
+"
+DB08097,"2-(2,6-DIFLUOROPHENOXY)-N-(2-FLUOROPHENYL)-9-ISOPROPYL-9H-PURIN-8-AMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11429,Mibolerone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,vet_approved,Estranes,
+DB03110,2-Chlorophenol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Phenols,
+DB14538,Hydrocortisone aceponate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,vet_approved","Corticosteroids, potent (group III)",
+DB06202,Lasofoxifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Selective estrogen receptor modulators,"
+Osteoporosis
+Virus infection
+"
+DB08868,Fingolimod,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Selective immunosuppressants,"
+Primary progressive multiple sclerosis
+"
+DB08089,LGD-2226,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Quinolines,
+DB04630,Aldosterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB05234,LGD2941,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Quinolines,"
+Osteoporosis
+"
+DB14639,Boldenone undecylenate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"illicit,vet_approved",Hormones,
+DB00858,Drostanolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,illicit,Steroids,
+DB00631,Clofarabine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Acute lymphoblastic leukaemia
+Myelodysplastic syndrome
+"
+DB07459,4-PHENOXY-N-(PYRIDIN-2-YLMETHYL)BENZAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01410,Ciclesonide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antiallergic Agents,"
+Asthma
+Obstructive airway disease
+"
+DB06870,Tetrahydrogestrinone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Hormones,
+DB04632,4-(2-HYDROXYBENZYLAMINO)-N-(3-(4-FLUOROPHENOXY)PHENYL)PIPERIDINE-1-SULFONAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06718,Stanozolol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Androstan derivatives,"
+Hereditary angioedema
+"
+DB08867,Ulipristal,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Emergency contraceptives,"
+Contraception
+"
+DB00984,Nandrolone phenpropionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit,investigational",Estranes,
+DB00443,Betamethasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Antiinflammatory Agents,"
+Inflammation
+"
+DB07454,(R)-3-BROMO-2-HYDROXY-2-METHYL-N-[4-NITRO-3-(TRIFLUOROMETHYL)PHENYL]PROPANAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07421,"4-{[(1R,2S)-1,2-dihydroxy-2-methyl-3-(4-nitrophenoxy)propyl]amino}-2-(trifluoromethyl)benzonitrile",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01380,Cortisone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Adrenals,
+DB00846,Flurandrenolide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Inflammation
+"
+DB13155,Esculin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Pyrans,
+DB00547,Desoximetasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Inflammation
+"
+DB06133,Dimethylcurcumin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB01564,Calusterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,illicit",Hormones,
+DB08461,"3-[(4-AMINO-1-TERT-BUTYL-1H-PYRAZOLO[3,4-D]PYRIMIDIN-3-YL)METHYL]PHENOL",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07039,(2S)-N-(4-cyano-3-iodophenyl)-3-(4-cyanophenoxy)-2-hydroxy-2-methylpropanamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07419,S-23,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amides,
+DB05423,ORG-34517,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Dioxoles,"
+Depression
+"
+DB13158,Clobetasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Corticosteroids, moderately potent (group II)",
+DB01481,1-Testosterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,illicit,investigational",Hormones,
+DB08804,Nandrolone decanoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit",Estranes,
+DB02932,(R)-Bicalutamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06366,Pertuzumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Monoclonal antibodies,"
+Breast cancer
+"
+DB00253,Medrysone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Corticosteroids, plain","
+Eye inflammation
+"
+DB06905,"(2S,3S,4E,6E,8S,9S)-3-amino-9-methoxy-2,6,8-trimethyl-10-phenyldeca-4,6-dienoic acid",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00240,Alclometasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Inflammation
+"
+DB11921,Deflazacort,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Glucocorticoids,"
+Duchenne dystrophy
+"
+DB07717,"(5S,8R,9S,10S,13R,14S,17S)-13-{2-[(3,5-DIFLUOROBENZYL)OXY]ETHYL}-17-HYDROXY-10-METHYLHEXADECAHYDRO-3H-CYCLOPENTA[A]PHENANTHREN-3-ONE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07422,(2S)-2-hydroxy-2-methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]-3-(pentafluorophenoxy)propanamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00663,Flumethasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved","Corticosteroids, moderately potent (group II)",
+DB01130,Prednicarbate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Inflammation
+"
+DB14596,Loteprednol etabonate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Steroids,
+DB08087,"4-[(7R,7AS)-7-HYDROXY-1,3-DIOXOTETRAHYDRO-1H-PYRROLO[1,2-C]IMIDAZOL-2(3H)-YL]-1-NAPHTHONITRILE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00896,Rimexolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Glucocorticoids,"
+Arthritis
+"
+DB07423,Andarine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amides,
+DB00596,Ulobetasol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Corticosteroids, potent (group III)",
+DB01420,Testosterone propionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved,withdrawn",Hormones,
+DB00860,Prednisolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Anticancer Agents,"
+Multiple sclerosis
+Solid tumour/cancer
+"
+DB01384,Paramethasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Antiinflammatory Agents,"
+Diabetic macular edema
+Inflammation
+"
+DB00665,Nilutamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Prostate cancer
+"
+DB01260,Desonide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Atopic dermatitis
+"
+DB00223,Diflorasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Rosacea
+"
+DB07286,BMS-564929,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB13003,Cortivazol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Glucocorticoids,
+DB04338,SB220025,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,"Calcium-Calmodulin-Dependent Protein Kinases, antagonists & inhibitors","
+Arthritis
+"
+DB08521,4-[4-(4-Fluorophenyl)-2-[4-[(R)-methylsulfinyl]phenyl]-1H-imidazol-5-yl]pyridine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00620,Triamcinolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Antiinflammatory Agents,"
+Allergic rhinitis
+"
+DB07010,N-BENZYL-4-[4-(3-CHLOROPHENYL)-1H-PYRAZOL-3-YL]-1H-PYRROLE-2-CARBOXAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08088,"2-chloro-4-{[(1R,3Z,7S,7aS)-7-hydroxy-1-(trifluoromethyl)tetrahydro-1H-pyrrolo[1,2-c][1,3]oxazol-3-ylidene]amino}-3-methylbenzonitrile",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11447,Phenothiazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,vet_approved",Antiprotozoals,
+DB15566,Prednisolone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Prodrugs,
+DB00635,Prednisone,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antiinflammatory Agents,"
+Inflammation
+"
+DB13934,Ligandrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB08899,Enzalutamide,DrugBank,https://www.drugbank.ca/covid-19,approved,Anti-androgens,"
+Prostate cancer
+"
+DB08899,Enzalutamide,DrugBank,https://www.drugbank.ca/covid-19,approved,Anti-androgens,"
+Prostate cancer
+"
+DB06061,AZD-8330,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyridines,
+DB06927,[5-HYDROXY-2-(4-HYDROXYPHENYL)-1-BENZOFURAN-7-YL]ACETONITRILE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00324,Fluorometholone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiallergic Agents,"
+Chronic obstructive pulmonary disease
+"
+DB00769,Hydrocortamate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Inflammation
+"
+DB07769,S-3-(4-FLUOROPHENOXY)-2-HYDROXY-2-METHYL-N-[4-NITRO-3-(TRIFLUOROMETHYL)PHENYL]PROPANAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00180,Flunisolide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiasthmatic Agents,"
+Allergic rhinitis
+"
+DB06781,Difluprednate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Corticosteroids, potent (group III)","
+Ocular pain
+"
+DB09053,Ibrutinib,DrugBank,https://www.drugbank.ca/covid-19,approved,Protein kinase inhibitors,"
+Mantle cell lymphoma
+"
+DB14583,Segesterone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,experimental,investigational",Steroids,
+DB06486,Enzastaurin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Anticancer Agents,"
+Central nervous system disease
+Diffuse large B-cell lymphoma
+Glioblastoma multiforme
+Non-hodgkin lymphoma
+"
+DB00288,Amcinonide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiinflammatory Agents,"
+Inflammation
+"
+DB00174,Asparagine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Amino Acids,
+DB00764,Mometasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Antiinflammatory Agents,"
+Skin allergy
+"
+DB03467,Naringenin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Pyrans,
+DB00394,Beclomethasone dipropionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational","Corticosteroids, potent, combinations with antibiotics",
+DB00542,Benazepril,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB00838,Clocortolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Corticosteroids, moderately potent (group II)","
+Rosacea
+"
+DB14066,Tetrandrine,DrugBank,https://www.drugbank.ca/covid-19,experimental,Alkaloids,"
+Colorectal cancer
+Sarcoma
+"
+DB06713,Norelgestromin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational","Progestogens and estrogens, fixed combinations",
+DB11703,Acalabrutinib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Amides,"
+Mantle cell lymphoma
+"
+DB02073,Biliverdine IX Alpha,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00741,Hydrocortisone,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antiinflammatory Agents,"
+Inflammation
+"
+DB01902,"1-Ethyl-Pyrrolidine-2,5-Dione",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01047,Fluocinonide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Inflammation
+"
+DB01222,Budesonide,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinflammatory Agents,"
+Asthma
+"
+DB00959,Methylprednisolone,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved","Corticosteroids, combinations for treatment of acne",
+DB00492,Fosinopril,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB14512,Mometasone furoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved","Corticosteroids, potent (group III)",
+DB13930,Ulixertinib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Amines,
+DB00881,Quinapril,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB06882,1-[1-(3-aminophenyl)-3-tert-butyl-1H-pyrazol-5-yl]-3-naphthalen-1-ylurea,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07860,(2R)-2-(4-CHLOROPHENYL)-2-PHENYLETHANAMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07854,N-METHYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00519,Trandolapril,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB00877,Sirolimus,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunosuppressive Agents,"
+Dutch elm disease
+Organ transplant rejection
+"
+DB00584,Enalapril,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antihypertensive Agents,"
+Hypertension
+"
+DB00051,Adalimumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Antirheumatic Agents,"
+Rheumatoid arthritis
+"
+DB01013,Clobetasol propionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hormones,
+DB08846,Ellagic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,
+DB08568,A-674563,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Pyrazoles,
+DB00351,Megestrol acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved","Progestogens and estrogens, sequential preparations",
+DB00987,Cytarabine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anticancer Agents,"
+Acute lymphoblastic leukaemia
+"
+DB06959,(2S)-1-(3H-Indol-3-yl)-3-{[5-(6-isoquinolinyl)-3-pyridinyl]oxy}-2-propanamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00144,Phosphatidyl serine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Lipids,
+DB07856,6-{4-[4-(4-CHLOROPHENYL)PIPERIDIN-4-YL]PHENYL}-9H-PURINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07107,(1S)-2-(1H-INDOL-3-YL)-1-[({5-[(E)-2-PYRIDIN-4-YLVINYL]PYRIDIN-3-YL}OXY)METHYL]ETHYLAMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07997,N-[2-(METHYLAMINO)ETHYL]-5-ISOQUINOLINESULFONAMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07204,"(1S)-1-(1H-INDOL-3-YLMETHYL)-2-(2-PYRIDIN-4-YL-[1,7]NAPHTYRIDIN-5-YLOXY)-EHYLAMINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07857,(2R)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07855,(S)-1-PHENYL-1-[4-(9H-PURIN-6-YL)PHENYL]METHANAMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08149,"1-[4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00126,Ascorbic acid,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical",Organic acids,
+DB08569,"3-PYRIDIN-4-YL-2,4-DIHYDRO-INDENO[1,2-.C.] PYRAZOLE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08113,3-pyridin-4-yl-1H-indazole,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08114,"5-benzyl-1,3-thiazol-2-amine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01608,Periciazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Phenothiazines with piperidine structure,
+DB07995,H-89,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amides,
+DB01395,Drospirenone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Contraceptive Agents,"
+Contraception
+"
+DB00316,Acetaminophen,DrugBank,https://www.drugbank.ca/covid-19,approved,Analgesics,"
+Pain
+"
+DB07996,5-(2-methylpiperazine-1-sulfonyl)isoquinoline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amides,
+DBXXXX1,Pritumumab,Literature,https://www.clinicaltrials.gov/ct2/show/NCT04396717,,,"
+Glioma
+"
+DB08070,2-[4-(3-METHYL-1H-PYRAZOL-4-YL)PHENYL]ETHANAMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB08148,"1-[4-(4-chlorophenyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-yl]methanamine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03203,Sphingosine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amines,
+DB07858,(2S)-2-(4-chlorophenyl)-2-[4-(1H-pyrazol-4-yl)phenyl]ethanamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02342,2-Methoxyestradiol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Estranes,"
+Pulmonary arterial hypertension
+"
+DB01097,Leflunomide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antiinflammatory Agents,"
+Arthritis
+Multiple sclerosis
+"
+DB08150,"4-(4-chlorobenzyl)-1-(7H-pyrrolo[2,3-d]pyrimidin-4-yl)piperidin-4-aminium",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00396,Progesterone,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved","Progestogens and estrogens, fixed combinations","
+Contraception
+Premature labour
+"
+DB07583,"(4R,2S)-5'-(4-(4-CHLOROBENZYLOXY)PYRROLIDIN-2-YLMETHANESULFONYL)ISOQUINOLINE",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB05959,ENMD-1198,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Estranes,"
+Solid tumour/cancer
+"
+DB04604,5-iodotubercidin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB03415,3-thiaoctanoyl-CoA,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00563,Methotrexate,DrugBank,https://www.drugbank.ca/covid-19,approved,Other immunosuppressants,"
+Solid tumour/cancer
+leukaemia
+"
+DB08882,Linagliptin,DrugBank,https://www.drugbank.ca/covid-19,approved,Dipeptidyl peptidase 4 (DPP-4) inhibitors,"
+Type-2 diabetes
+"
+DB04465,Lactose,DrugBank,https://www.drugbank.ca/covid-19,"approved,experimental,investigational",Food,
+DB01261,Sitagliptin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Hypoglycemic Agents,"
+Type-2 diabetes
+Type-2 diabetes
+"
+DB05829,Parathyroid hormone,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Parathyroid hormones and analogues,
+DB00203,Sildenafil,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Sulfonamides,
+DB08217,"S-[(1-Hydroxy-2,2,5,5-tetramethyl-2,5-dihydro-1H-pyrrol-3-yl)methyl] methanesulfonothioate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01950,AR-AO-14418,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Sulfur Compounds,
+DB01262,Decitabine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Myelodysplastic syndrome
+"
+DB01793,SB-409513,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01099,Flucytosine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antifungal Agents,"
+Endocarditis
+"
+DB03444,6-bromoindirubin-3'-oxime,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amines,
+DB00788,Naproxen,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antiinflammatory products for vaginal administration,"
+Endometriosis
+Osteoarthritis
+Pain
+"
+DB12129,Tideglusib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"investigational,withdrawn",Thiazoles,
+DB07058,"5-[1-(4-methoxyphenyl)-1H-benzimidazol-6-yl]-1,3,4-oxadiazole-2(3H)-thione",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07149,"(7S)-2-(2-aminopyrimidin-4-yl)-7-(2-fluoroethyl)-1,5,6,7-tetrahydro-4H-pyrrolo[3,2-c]pyridin-4-one",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00158,Folic acid,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical,vet_approved",Iron in other combinations,
+DB05668,Palifosfamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Ions,"
+Soft tissue sarcoma
+"
+DB01772,"3-[3-(2,3-Dihydroxy-Propylamino)-Phenyl]-4-(5-Fluoro-1-Methyl-1h-Indol-3-Yl)-Pyrrole-2,5-Dione",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00255,Diethylstilbestrol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Gonorrheal vaginitis
+"
+DB01280,Nelarabine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+leukaemia
+"
+DB00928,Azacitidine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anticancer Agents,"
+Myelodysplastic syndrome
+"
+DB00198,Oseltamivir,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiviral Agents,"
+Influenza virus infection
+"
+DB07014,"2-(1,3-benzodioxol-5-yl)-5-[(3-fluoro-4-methoxybenzyl)sulfanyl]-1,3,4-oxadiazole",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00171,ATP,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"investigational,nutraceutical",Purines,
+DB07876,(S)-2-METHYL-1-[(4-METHYL-5-ISOQUINOLINE)SULFONYL]-HOMOPIPERAZINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00188,Bortezomib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anticancer Agents,"
+Multiple myeloma
+Non-hodgkin lymphoma
+"
+DB01065,Melatonin,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical,vet_approved",Central Nervous System Stimulants,"
+Insomnia
+"
+DB05223,Pracinostat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Antineoplastic Agents,"
+Acute myeloid leukaemia
+Myelodysplastic syndrome
+Myelofibrosis
+"
+DB04707,Hydroxyfasudil,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amides,
+DB11842,Angiotensin II,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other cardiac stimulants,
+DB01863,"Inositol 1,3,4,5-Tetrakisphosphate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Alcohols,
+DB00876,Eprosartan,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB00275,Olmesartan,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Angiotensin II receptor blockers (ARBs) and diuretics,
+DB04272,Citric acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical,vet_approved",Acid preparations,
+DB01033,Mercaptopurine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Anticancer Agents,"
+Acute lymphoblastic leukaemia
+"
+DB01022,Phylloquinone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Vitamin K,
+DB13919,Candesartan,DrugBank,https://www.drugbank.ca/covid-19,experimental,Antihypertensive Agents,"
+Hypertension
+"
+DB02998,Metribolone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Estranes,
+DB00431,Lindane,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Antiscabies Agent,"
+Infestations of lice and scabies
+"
+DB00678,Losartan,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB01992,Coenzyme A,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"investigational,nutraceutical",Purines,
+DB12116,Epigallocatechin gallate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Pyrans,"
+Hepatic fibrosis
+"
+DB11830,Mocetinostat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Amides,
+DB08910,Pomalidomide,DrugBank,https://www.drugbank.ca/covid-19,approved,Other immunosuppressants,"
+Systemic sclerosis
+"
+DB08604,Triclosan,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antibiotics,"
+Bacterial infection
+Infection of P. falciparum
+Trypanosomiasis
+"
+DB08906,Fluticasone furoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Adrenergics in combination with anticholinergics incl. triple combinations with corticosteroids,
+DB00177,Valsartan,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB01234,Dexamethasone,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antiinflammatory Agents,"
+Rheumatoid arthritis
+"
+DB06822,Tinzaparin,DrugBank,https://www.drugbank.ca/covid-19,approved,Heparin group,
+DB13953,Estradiol benzoate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estranes,
+DB13954,Estradiol cypionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estranes,
+DB13952,Estradiol acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estrogens,
+DB13956,Estradiol valerate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estranes,
+DB04014,Alsterpaullone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Cyclin B,
+DB02210,"Hexane-1,6-Diol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02266,Flufenamic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Fenamates,
+DB11595,Atezolizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Monoclonal antibodies,"
+Bronchioalveolar carcinoma
+Melanoma
+Solid tumour/cancer
+Ulcer
+"
+DB13955,Estradiol dienanthate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Estranes,
+DB04468,Afimoxifene,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Hormones,"
+Breast cancer
+Ductal carcinoma
+"
+DB14761,Remdesivir,DrugBank,https://www.drugbank.ca/covid-19,investigational,Glycosides,
+DB08877,Ruxolitinib,DrugBank,https://www.drugbank.ca/covid-19,approved,Protein kinase inhibitors,"
+Essential thrombocythemia
+Essential thrombocythemia
+High-risk myelofibrosis
+Pancreatic cancer
+"
+DB00966,Telmisartan,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB05033,INCB7839,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,
+DB01864,5'-Guanosine-Diphosphate-Monothiophosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB00151,Cysteine,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical",Cysteine,
+DB00207,Azithromycin,DrugBank,https://www.drugbank.ca/covid-19,approved,Combinations of antibacterials,
+DB00605,Sulindac,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antiinflammatory Agents,"
+Rheumatoid arthritis
+"
+DB02546,Vorinostat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Cutaneous T-cell lymphoma
+"
+DB01064,Isoprenaline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Adrenergic and dopaminergic agents,
+DB02482,Phosphonothreonine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00310,Chlorthalidone,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Edema
+Hypertension
+"
+DB04820,Nialamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn","Monoamine oxidase inhibitors, non-selective",
+DB01611,Hydroxychloroquine,DrugBank,https://www.drugbank.ca/covid-19,approved,Antimalarials,"
+Malaria
+"
+DB05511,Piclidenoson,DrugBank,https://www.drugbank.ca/covid-19,investigational,Purines,
+DB00591,Fluocinolone acetonide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Corticosteroids and antiinfectives in combination,
+DB03401,"1D-myo-inositol 1,4,5-trisphosphate",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Alcohols,
+DB01041,Thalidomide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,withdrawn",Immunosuppressive Agents,"
+Multiple myeloma
+"
+DB08855,Leukotriene C4,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",SRS-A,
+DB02285,Protoporphyrin,DrugBank,https://www.drugbank.ca/covid-19,experimental,Porphyrins,
+DB03374,"3,5-Diiodotyrosine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Thyroid Products,
+DB00975,Dipyridamole,DrugBank,https://www.drugbank.ca/covid-19,approved,Vasodilator Agents,"
+Hypertension
+"
+DB02930,Adenosine 5'-[gamma-thio]triphosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB04395,Phosphoaminophosphonic Acid-Adenylate Ester,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB02527,Cyclic adenosine monophosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB03127,Benzamidine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Amidines,
+DB04851,Biricodar,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Anticancer Agents,"
+Ovarian cancer
+"
+DB00863,Ranitidine,DrugBank,https://www.drugbank.ca/covid-19,"approved,withdrawn",Antiulcer Agents,"
+Peptic ulcer
+"
+DB01035,Procainamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antiarrhythmic Agents,"
+Ventricular arrhythmias
+"
+DB00834,Mifepristone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Progesterone receptor modulators,"
+Cushing disease
+"
+DB00026,Anakinra,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinflammatory Agents,"
+Rheumatoid arthritis
+"
+DB07546,[1-(6-{6-[(1-methylethyl)amino]-1H-indazol-1-yl}pyrazin-2-yl)-1H-pyrrol-3-yl]acetic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00623,Fluphenazine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antipsychotic Agents,"
+Psychotic disorder
+"
+DB05412,Talmapimod,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,"Heterocyclic Compounds, Fused-Ring",
+DB14999,Human interferon beta,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Peptides,
+DB00808,Indapamide,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB14508,Lithium succinate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Other dermatologicals,
+DB01356,Lithium cation,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Mood Stabilizer,
+DB05258,Interferon alfa,DrugBank,https://www.drugbank.ca/covid-19,investigational,Peptides,
+DB00524,Metolazone,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Edema
+Hypertension
+"
+DB14507,Lithium citrate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Acids, Acyclic",
+DB00588,Fluticasone propionate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Adrenals,
+DB14509,Lithium carbonate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Ions,
+DB13867,Fluticasone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,experimental",Antiinflammatory Agents,"
+Allergic rhinitis
+"
+DB11817,Baricitinib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Selective immunosuppressants,"
+Rheumatoid arthritis
+Rheumatoid arthritis
+"
+DB06228,Rivaroxaban,DrugBank,https://www.drugbank.ca/covid-19,approved,Direct factor Xa inhibitors,"
+Deep vein thrombosis
+"
+DB00999,Hydrochlorothiazide,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Diuretics,"
+Hypertension
+"
+DB00626,Bacitracin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Antibiotics,"
+Skin infection
+"
+DB00790,Perindopril,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB03247,Flavin mononucleotide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Food,
+DB00880,Chlorothiazide,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antihypertensive Agents,"
+Congestive heart failure
+"
+DB00025,"Antihemophilic factor, human recombinant",DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Blood coagulation factors,
+DB00652,Pentazocine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,vet_approved",Anesthetics,"
+Pain
+"
+DB09241,Methylene blue,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antidotes,"
+Acquired methemoglobinemia
+"
+DB00956,Hydrocodone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit,investigational",Analgesics,"
+Pain
+Pain
+"
+DB00343,Diltiazem,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB00178,Ramipril,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Congestive heart failure
+"
+DB08231,Myristic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Lipids,
+DB00294,Etonogestrel,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Contraceptive Agents,"
+Contraception
+"
+DB00358,Mefloquine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antimalarials,"
+Malaria
+"
+DB11967,Binimetinib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Protein kinase inhibitors,
+DB01077,Etidronic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Bone Density Conservation Agents,"
+Paget's disease
+"
+DB00630,Alendronic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Bisphosphonates, combinations",
+DB09035,Nivolumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Monoclonal antibodies,"
+Melanoma
+Non-small-cell lung cancer
+"
+DB09037,Pembrolizumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Monoclonal antibodies,"
+Melanoma
+"
+DB06168,Canakinumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Interleukin inhibitors,"
+Cryopyrin-associated periodic syndromes
+Rheumatoid arthritis
+Urticaria
+Vasculitis
+"
+DB06186,Ipilimumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Monoclonal antibodies,"
+Melanoma
+"
+DB13007,Enfortumab vedotin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunoglobulins,"
+Urothelial carcinoma
+"
+DB00569,Fondaparinux,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other antithrombotic agents,
+DB11901,Apalutamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anti-androgens,
+DB07676,"3-({[(3S)-3,4-dihydroxybutyl]oxy}amino)-1H,2'H-2,3'-biindol-2'-one",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB15493,Cambinol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Pyrimidines,
+DB13133,Von Willebrand Factor Human,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Blood coagulation factors,
+DB00515,Cisplatin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Solid tumour/cancer
+"
+DB09329,"Antihemophilic Factor (Recombinant), PEGylated",DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Glycols,
+DB12872,Vonicog Alfa,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",,
+DB01225,Enoxaparin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticoagulants,"
+Thrombosis
+Venous thrombosis
+"
+DB08862,Cholecystokinin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Tests for pancreatic function,
+DB01001,Salbutamol,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Bronchodilator Agents,"
+Acute asthma
+"
+DB12161,Deutetrabenazine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Quinolizines,"
+Huntington disease
+Tardive dyskinesia
+"
+DB05018,Migalastat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Various alimentary tract and metabolism products,"
+Fabry disease
+Fabry disease
+"
+DB00983,Formoterol,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Sympathomimetics,"
+Asthma
+"
+DB05470,VX-702,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Benzene Derivatives,"
+Coronary artery disease
+Coronary artery disease
+Inflammation
+Rheumatoid arthritis
+"
+DB00176,Fluvoxamine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antidepressants,"
+Depression
+"
+DB01211,Clarithromycin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antibiotics,"
+Bacterial infection
+"
+DB14724,Emapalumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Selective immunosuppressants,"
+Primary haemophagocytic lymphohistiocytosis
+"
+DB05157,KC706,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,,"
+Cardiovascular disease
+Inflammatory bowel disease
+Psoriasis vulgaris
+Rheumatoid arthritis
+"
+DB01138,Sulfinpyrazone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Uricosuric Agents,"
+Gout
+"
+DB08756,Y-27632,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Muscle Relaxants,
+DB01197,Captopril,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB00471,Montelukast,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiasthmatic Agents,"
+Asthma
+"
+DB01488,Dimethyltryptamine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,illicit",Amines,
+DB06603,Panobinostat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other antineoplastic agents,"
+Multiple myeloma
+Primary myelofibrosis
+Type-2 diabetes
+"
+DB08513,[4-({5-(AMINOCARBONYL)-4-[(3-METHYLPHENYL)AMINO]PYRIMIDIN-2-YL}AMINO)PHENYL]ACETIC ACID,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00603,Medroxyprogesterone acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Pregnen (4) derivatives,
+DB08162,Fasudil,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Other peripheral vasodilators,
+DB15688,Vazegepant,DrugBank,https://www.drugbank.ca/covid-19,,Pyrazoles,
+DB05015,Belinostat,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other antineoplastic agents,
+DB05382,Iodine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Iodine products,
+DB00982,Isotretinoin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiacne Agents,"
+Acne vulgaris
+"
+DB00633,Dexmedetomidine,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Hypnotics and Sedatives,"
+Irritability
+"
+DB00545,Pyridostigmine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Parasympathomimetics,"
+Myasthenia gravis
+"
+DB06515,Resiniferatoxin,DrugBank,https://www.drugbank.ca/covid-19,investigational,Analgesics,"
+Cancer related pain
+Neuropathic pain
+Osteoarthritis
+Pain
+"
+DB00107,Oxytocin,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved","Ergot alkaloids and oxytocin incl. analogues, in combination","
+Autism spectrum disorder
+"
+DB00242,Cladribine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Hairy cell leukaemia
+"
+DB00472,Fluoxetine,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antidepressants,"
+Depression
+"
+DB11952,Duvelisib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",BCRP/ABCG2 Substrates,
+DB08895,Tofacitinib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Selective immunosuppressants,"
+Rheumatoid arthritis
+"
+DB01098,Rosuvastatin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticholesteremic Agents,"
+Elevated C-reactive protein
+Hypercholesterolaemia
+"
+DB00806,Pentoxifylline,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Vasodilator Agents,"
+Intermittent claudication
+"
+DB00775,Tirofiban,DrugBank,https://www.drugbank.ca/covid-19,approved,Fibrinolytic Agents,"
+Acute coronary syndrome
+"
+DB14002,D-alpha-Tocopherol acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical,vet_approved",Vitamins,
+DB09014,Captodiame,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Diphenylmethane derivatives,
+DB07812,"N-[(1S)-2-amino-1-phenylethyl]-5-(1H-pyrrolo[2,3-b]pyridin-4-yl)thiophene-2-carboxamide",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01117,Atovaquone,DrugBank,https://www.drugbank.ca/covid-19,approved,Antifungal Agents,"
+Fungal infection
+"
+DB14533,Zinc chloride,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other agents for treatment of hemorrhoids and anal fissures for topical use,
+DB00302,Tranexamic acid,DrugBank,https://www.drugbank.ca/covid-19,approved,Amino acids,
+DB00163,Vitamin E,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical,vet_approved",Food,"
+Cardiovascular disease
+"
+DB06403,Ambrisentan,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensives for pulmonary arterial hypertension,"
+Pulmonary arterial hypertension
+"
+DB00675,Tamoxifen,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Breast cancer
+"
+DB12668,Metenkefalin,DrugBank,https://www.drugbank.ca/covid-19,investigational,Neuropeptides,
+DB05386,Regramostim,DrugBank,https://www.drugbank.ca/covid-19,investigational,Peptides,
+DB02010,Staurosporine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Indoles,
+DB04530,"S,S-(2-Hydroxyethyl)Thiocysteine",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB03461,Nicotinamide adenine dinucleotide phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,Purines,
+DB04932,Defibrotide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other antithrombotic agents,"
+Diabetic nephropathy
+Hepatic veno-occlusive disease
+"
+DB00503,Ritonavir,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anti-HIV Agents,"
+Human immunodeficiency virus infection
+"
+DB04522,Dexfosfoserine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00071,Insulin pork,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,"Insulins and analogues for injection, intermediate-acting",
+DB01708,Prasterone,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Androgens and estrogens,"
+Cardiovascular disease
+Chronic obstructive pulmonary disease
+"
+DB00381,Amlodipine,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Hypertension
+"
+DB07684,5-(DIMETHYLAMINO)-2-NAPHTHALENESULFONIC ACID,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00074,Basiliximab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunomodulatory Agents,"
+Organ transplant rejection
+"
+DB02746,Phthalic Acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,"Acids, Carbocyclic",
+DB00704,Naltrexone,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Natural opium alkaloids,"
+Alcohol dependence
+Human immunodeficiency virus infection
+"
+DB01088,Iloprost,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Antihypertensive Agents,"
+Pulmonary arterial hypertension
+"
+DB00436,Bendroflumethiazide,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+High blood pressure
+"
+DB07947,ISOQUINOLINE-5-SULFONIC ACID (2-(2-(4-CHLOROBENZYLOXY)ETHYLAMINO)ETHYL)AMIDE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB07859,4-(4-CHLOROPHENYL)-4-[4-(1H-PYRAZOL-4-YL)PHENYL]PIPERIDINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB11580,Ravulizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Proteins,"
+Paroxysmal nocturnal haemoglobinuria
+"
+DB00328,Indomethacin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antiinflammatory Agents,"
+Rheumatoid arthritis
+"
+DB06273,Tocilizumab,DrugBank,https://www.drugbank.ca/covid-19,approved,Interleukin inhibitors,"
+Juvenile idiopathic arthritis
+Rheumatoid arthritis
+"
+DB00848,Levamisole,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved,withdrawn",Anticancer Agents,"
+Colon cancer
+Parasitic infection
+"
+DB01133,Tiludronic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,vet_approved",Bisphosphonates,"
+Osteoporosis
+"
+DB08073,(2S)-1-(1H-INDOL-3-YL)-3-{[5-(3-METHYL-1H-INDAZOL-5-YL)PYRIDIN-3-YL]OXY}PROPAN-2-AMINE,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00279,Liothyronine,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Hormone Replacement Agents,"
+Congestive heart failure
+Hypothyroidism
+"
+DB04447,"1,4-Dithiothreitol",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB15035,Zanubrutinib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Teratogens,
+DB06699,Degarelix,DrugBank,https://www.drugbank.ca/covid-19,approved,Other hormone antagonists and related agents,
+DB05941,Leronlimab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,
+DB01257,Eculizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Selective immunosuppressants,"
+Age-related macular degeneration
+"
+DB06292,Dapagliflozin,DrugBank,https://www.drugbank.ca/covid-19,approved,Sodium-glucose co-transporter 2 (SGLT2) inhibitors,"
+Type-2 diabetes
+"
+DB09036,Siltuximab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Interleukin inhibitors,"
+Anemia
+"
+DB00060,Interferon beta-1a,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunomodulatory Agents,"
+Multiple sclerosis
+"
+DB04315,Guanosine-5'-Diphosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00105,Interferon alfa-2b,DrugBank,https://www.drugbank.ca/covid-19,approved,Interferons,
+DB14487,Zinc acetate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other agents for treatment of hemorrhoids and anal fissures for topical use,
+DB01017,Minocycline,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antibiotics,"
+Bacterial infection
+"
+DB00114,Pyridoxal phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Other plain vitamin preparations,
+DB01593,Zinc,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other agents for treatment of hemorrhoids and anal fissures for topical use,
+DB00068,Interferon beta-1b,DrugBank,https://www.drugbank.ca/covid-19,approved,Immunomodulatory Agents,"
+Multiple sclerosis
+"
+DB00313,Valproic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Fatty acid derivatives,
+DB14041,Fremanezumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Proteins,"
+Hyperprolactinaemia
+"
+DB06205,Vorhyaluronidase alfa,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Lyases,
+DB00157,NADH,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical",Dietary supplement,"
+Parkinson disease
+"
+DB00099,Filgrastim,DrugBank,https://www.drugbank.ca/covid-19,approved,Immunomodulatory Agents,"
+Neutropenia
+"
+DB14009,Medical Cannabis,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",BCRP/ABCG2 Inhibitors,
+DB14597,Lanadelumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Drugs used in hereditary angioedema,"
+Hereditary angioedema
+"
+DB07267,2-(6-methylpyridin-2-yl)-N-pyridin-4-ylquinazolin-4-amine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04434,Naphthyridine Inhibitor,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00927,Famotidine,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiulcer Agents,"
+Peptic ulcer
+"
+DB04480,"3-(4-Fluorophenyl)-2-(6-Methylpyridin-2-Yl)-5,6-Dihydro-4h-Pyrrolo[1,2-B]Pyrazole",Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB04786,Suramin,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Antinematodal Agents,"
+African trypanosomiasis
+"
+DB00514,Dextromethorphan,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Analgesics,"
+Cough
+"
+DB07152,N-[4-(5-fluoro-6-methylpyridin-2-yl)-5-quinoxalin-6-yl-1H-imidazol-2-yl]acetamide,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB06151,Acetylcysteine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Mucolytics,"
+Liver disease
+"
+DB00501,Cimetidine,Wikipedia,https://en.wikipedia.org/wiki/COVID-19_drug_repurposing_research#Studies,"approved,investigational",Antiulcer Agents,"
+Acid-reflux disorder
+"
+DB00758,Clopidogrel,DrugBank,https://www.drugbank.ca/covid-19,approved,Platelet aggregation inhibitors excl. heparin,"
+Thrombosis
+"
+DB00020,Sargramostim,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Immunomodulatory Agents,"
+Bone marrow transplantation
+"
+DB08450,N-1H-indazol-5-yl-2-(6-methylpyridin-2-yl)quinazolin-4-amine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB01373,Calcium,DrugBank,https://www.drugbank.ca/covid-19,nutraceutical,"Bisphosphonates, combinations","
+Osteoporosis
+"
+DB13923,Emicizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other systemic hemostatics,"
+Factor VIII deficiency
+"
+DB03921,4-(3-Pyridin-2-Yl-1h-Pyrazol-4-Yl)Quinoline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,experimental,,
+DB00143,Glutathione,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Antidotes,"
+Human immunodeficiency virus infection
+"
+DB09061,Cannabidiol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other antiepileptics,"
+Dravet syndrome
+LennoxGastaut syndrome
+"
+DB00170,Menadione,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical",Vitamins,"
+Prostate cancer
+Vitamin K deficiency
+"
+DB00480,Lenalidomide,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Multiple myeloma
+"
+DB00421,Spironolactone,DrugBank,https://www.drugbank.ca/covid-19,approved,Diuretics,"
+Congestive heart failure
+"
+DB00435,Nitric Oxide,DrugBank,https://www.drugbank.ca/covid-19,approved,Bronchodilator Agents,"
+Respiratory failure
+Solid tumour/cancer
+"
+DB14011,Nabiximols,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,investigational,Terpenes,"
+Cancer related pain
+Muscle spasm
+"
+DB11093,Calcium citrate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Calcium,
+DB01254,Dasatinib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Anticancer Agents,"
+Chronic myelogenous leukaemia
+Multiple myeloma
+"
+DB01018,Guanfacine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Imidazoline receptor agonists,
+DB14481,Calcium phosphate dihydrate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Ions,
+DB01115,Nifedipine,DrugBank,https://www.drugbank.ca/covid-19,approved,Analgesics,"
+Angina pectoris
+"
+DB11348,Calcium Phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Calcium,
+DB00009,Alteplase,DrugBank,https://www.drugbank.ca/covid-19,approved,Thrombolytic Agents,"
+Pulmonary embolism
+"
+DB14762,Risankizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Proteins,"
+Plaque psoriasis
+Psoriatic arthritis
+"
+DB00131,Adenosine phosphate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,nutraceutical",Purines,
+DB01942,Formic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"experimental,investigational",Hemostatics,
+DB01023,Felodipine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB06779,Dalteparin,DrugBank,https://www.drugbank.ca/covid-19,approved,Heparin group,
+DB00602,Ivermectin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antiprotozoal Agents,"
+Intestinal strongyloidiasis due to nematode parasite
+"
+DB11094,Vitamin D,Wikipedia,https://en.wikipedia.org/wiki/COVID-19_drug_repurposing_research#Studies,"approved,nutraceutical,vet_approved",Food,
+DB00457,Prazosin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antihypertensive Agents,"
+Benign prostatic hyperplasia
+Congestive heart failure
+Hypertension
+"
+DB14001,alpha-Tocopherol succinate,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical,vet_approved",Food,
+DB08954,Ifenprodil,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,withdrawn",Other peripheral vasodilators,
+DB00036,Coagulation factor VIIa Recombinant Human,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Blood coagulation factors,
+DB01285,Corticotropin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",ACTH,"
+Cushing disease
+"
+DB00146,Calcifediol,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical",Vitamin D and analogues,"
+Vitamin D deficiency
+"
+DB00622,Nicardipine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+High blood pressure
+"
+DB00159,Icosapent,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical",Dietary supplement,"
+Hyperglyceridemia
+Hypertriglyceridemia
+Thrombin deficiency
+"
+DB00513,Aminocaproic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Amino acids,
+DB13609,Umifenovir,DrugBank,https://www.drugbank.ca/covid-19,investigational,Other antivirals,
+DB00169,Cholecalciferol,DrugBank,https://www.drugbank.ca/covid-19,"approved,nutraceutical",Vitamins,"
+Vitamin D deficiency
+"
+DB01050,Ibuprofen,DrugBank,https://www.drugbank.ca/covid-19,approved,Analgesics,"
+Pain
+"
+DB01039,Fenofibrate,Wikipedia,https://en.wikipedia.org/wiki/COVID-19_drug_repurposing_research#Studies,approved,Antilipemic Agents,"
+High cholesterol level
+"
+DB09213,Dexibuprofen,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Propionic acid derivatives,"
+Ankylosing spondylitis
+"
+DB00409,Remoxipride,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,withdrawn",Antipsychotic Agents,"
+Schizophrenia
+"
+DB01054,Nitrendipine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antihypertensive Agents,"
+Hypertension
+"
+DB09079,Nintedanib,DrugBank,https://www.drugbank.ca/covid-19,approved,Protein kinase inhibitors,"
+Mesothelioma
+"
+DB00142,Glutamic acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,nutraceutical",Acid preparations,
+DB00540,Nortriptyline,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antidepressants,"
+Depression
+"
+DB11186,Pentoxyverine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other cough suppressants,
+DB00755,Tretinoin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,nutraceutical",Keratolytic Agents,"
+Acne vulgaris
+Acute promyelocytic leukaemia
+"
+DB12010,Fostamatinib,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Other systemic hemostatics,"
+Immune thrombocytopenic purpura
+Rheumatoid arthritis
+"
+DB00100,Coagulation Factor IX (Recombinant),DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Hemostatics,
+DB03796,Palmitic Acid,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Lipids,
+DB13152,Coagulation Factor IX Human,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Hemostatics,
+DB00907,Cocaine,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,illicit",Anesthetics,"
+Anaesthesia
+"
+DB00661,Verapamil,DrugBank,https://www.drugbank.ca/covid-19,approved,Analgesics,"
+Hypertension
+"
+DB12598,Nafamostat,DrugBank,https://www.drugbank.ca/covid-19,investigational,Amidines,"
+Pancreatitis
+Sepsis
+"
+DB00055,Drotrecogin alfa,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,withdrawn",Antisepsis Agents,"
+Cerebrovascular ischaemia
+Severe sepsis
+"
+DB00393,Nimodipine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Vasodilator Agents,"
+Cerebral vasospasm
+"
+DB13151,Anti-inhibitor coagulant complex,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Blood coagulation factors,"
+Bleeding disorder
+"
+DB00289,Atomoxetine,DrugBank,https://www.drugbank.ca/covid-19,approved,Centrally acting sympathomimetics,"
+Attention deficit hyperactivity disorder
+"
+DB00028,Human immunoglobulin G,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Serum,
+DB01393,Bezafibrate,Wikipedia,https://en.wikipedia.org/wiki/COVID-19_drug_repurposing_research#Studies,"approved,investigational",Antilipemic Agents,"
+Hyperlipidaemia
+"
+DB00098,Antithymocyte immunoglobulin (rabbit),Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Selective immunosuppressants,
+DB12141,Gilteritinib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Amines,"
+Acute myeloid leukaemia
+"
+DB00909,Zonisamide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Analgesics,"
+Epilepsy
+"
+DB00502,Haloperidol,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Antipsychotic Agents,"
+Schizophrenia
+"
+DB09332,Kappadione,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,,
+DB01118,Amiodarone,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antiarrhythmic Agents,"
+Tachyarrhythmias
+"
+DB00013,Urokinase,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational,withdrawn",Thrombolytic Agents,"
+Myocardial infarction
+"
+DB11767,Sarilumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Interleukin inhibitors,"
+Rheumatoid arthritis
+"
+DB06404,Human C1-esterase inhibitor,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,approved,Drugs used in hereditary angioedema,
+DB09228,Conestat alfa,Gordon et al.,https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-020-2286-9/MediaObjects/41586_2020_2286_MOESM6_ESM.xlsx,"approved,investigational",Drugs used in hereditary angioedema,
+DB01109,Heparin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Heparin group,
+DB00477,Chlorpromazine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antipsychotic Agents,"
+Schizophrenia
+"
+DB00112,Bevacizumab,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Monoclonal antibodies,"
+Glaucoma/ocular hypertension
+"
+DB01236,Sevoflurane,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Anesthetics,"
+Anaesthesia
+"
+DB01221,Ketamine,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Analgesics,"
+Anaesthesia
+"
+DB13729,Camostat,DrugBank,https://www.drugbank.ca/covid-19,experimental,Proteinase inhibitors,"
+Cystic fibrosis
+"
+DB01043,Memantine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anticholinesterases,"
+Alzheimer disease
+"
+DB00818,Propofol,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Hypnotics and Sedatives,"
+Anaesthesia
+"
+DB12534,Mavrilimumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,"
+Rheumatoid arthritis
+"
+DB06803,Niclosamide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Salicylic acid derivatives,"
+Cestodes infection
+"
+DB09152,Nitrogen,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Medical gases,
+DB15655,Ad5-nCoV,DrugBank,https://www.drugbank.ca/covid-19,investigational,Experimental Unapproved Treatments for COVID-19,
+DB09153,Sodium chloride,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Electrolyte solutions,"
+Skin burns
+"
+DB11863,Alvelestat,DrugBank,https://www.drugbank.ca/covid-19,investigational,Pyridines,
+DB14803,AMY-101,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB01601,Lopinavir,DrugBank,https://www.drugbank.ca/covid-19,approved,Anti-HIV Agents,"
+Human immunodeficiency virus infection
+"
+DB00319,Piperacillin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antibiotics,"
+Bacterial infection
+"
+DB01606,Tazobactam,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinfective Agents,"
+Bacterial infection
+"
+DB06812,Povidone-iodine,DrugBank,https://www.drugbank.ca/covid-19,approved,Other antiinfectives and antiseptics,"
+Bacterial infection
+"
+DB12038,Ulinastatin,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,"
+Premature labour
+"
+DB14828,ABX-464,DrugBank,https://www.drugbank.ca/covid-19,investigational,"Heterocyclic Compounds, Fused-Ring",
+DB12466,Favipiravir,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",OAT1/SLC22A6 inhibitors,
+DB00507,Nitazoxanide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antiparasitic Agents,"
+Diarrhea
+"
+DB15661,EIDD-2801,DrugBank,https://www.drugbank.ca/covid-19,experimental,Esters,
+DB04897,Lucinactant,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Lipids,"
+Respiratory distress syndrome
+"
+DB14767,Peginterferon lambda-1a,DrugBank,https://www.drugbank.ca/covid-19,investigational,Glycols,"
+Acute myeloid leukaemia
+"
+DB00003,Dornase alfa,DrugBank,https://www.drugbank.ca/covid-19,approved,Mucolytics,
+DB09274,Artesunate,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational","Artemisinin and derivatives, plain","
+Malaria
+Malaria
+"
+DB13132,Artemisinin,DrugBank,https://www.drugbank.ca/covid-19,investigational,"Artemisinin and derivatives, plain","
+Malaria
+"
+DB00742,Mannitol,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Sweetening Agents,"
+Bronchiectasis
+Renal failure
+"
+DB09113,Poractant alfa,DrugBank,https://www.drugbank.ca/covid-19,approved,Lipids,"
+Respiratory distress syndrome
+"
+DB13156,Inosine pranobex,DrugBank,https://www.drugbank.ca/covid-19,approved,Other antivirals,"
+Rheumatoid arthritis
+Virus infection
+"
+DB15636,Zilucoplan,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB04977,Plitidepsin,DrugBank,https://www.drugbank.ca/covid-19,investigational,Other antineoplastic agents,"
+Multiple myeloma
+Multiple myeloma
+"
+DB12849,Clazakizumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,"
+Crohn disease
+Rheumatoid arthritis
+"
+DB11803,Sirukumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Interleukin inhibitors,"
+Cutaneous lupus erythematosus
+Giant cell arteritis
+Major depressive disorder
+Rheumatoid arthritis
+"
+DB13127,Olokizumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,"
+Rheumatoid arthritis
+Rheumatoid arthritis
+"
+DB01042,Melphalan,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Multiple myeloma
+"
+DB15446,Vidofludimus,DrugBank,https://www.drugbank.ca/covid-19,investigational,"Acids, Acyclic","
+Inflammatory bowel disease
+Rheumatoid arthritis
+"
+DB11997,Interleukin-7,DrugBank,https://www.drugbank.ca/covid-19,investigational,Peptides,
+DB14644,Methylprednisolone hemisuccinate,DrugBank,https://www.drugbank.ca/covid-19,approved,Hormones,
+DB06303,Otilimab,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB01390,Sodium bicarbonate,DrugBank,https://www.drugbank.ca/covid-19,approved,Antidiarrheals,"
+Metabolic acidosis
+"
+DB15687,Tridecactide,DrugBank,https://www.drugbank.ca/covid-19,,Melanocyte-Stimulating Hormones,
+DB09322,Zinc sulfate,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other agents for treatment of hemorrhoids and anal fissures for topical use,
+DB12768,BCG vaccine,DrugBank,https://www.drugbank.ca/covid-19,investigational,Other immunostimulants,"
+Bladder cancer
+"
+DB00254,Doxycycline,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antiinflammatory Agents,"
+Advanced gum disease
+Chronic periodontitis
+Diabetic foot ulcer
+"
+DB09570,Ixazomib,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other antineoplastic agents,"
+Multiple myeloma
+"
+DB13973,Remestemcel-L,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",,
+DB12510,Ozone,DrugBank,https://www.drugbank.ca/covid-19,investigational,Gases,
+DB15121,AT-001,DrugBank,https://www.drugbank.ca/covid-19,investigational,,"
+Solid tumour/cancer
+"
+DB01060,Amoxicillin,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antibiotics,"
+Bacterial infection
+"
+DB00766,Clavulanic acid,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Lactams,
+DB06260,Aviptadil,DrugBank,https://www.drugbank.ca/covid-19,experimental,Hormones,"
+Acute lung injury
+"
+DB00440,Trimethoprim,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antiinfective Agents,"
+Urinary tract infection
+"
+DB01015,Sulfamethoxazole,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinfective Agents,"
+Bacterial infection
+Infection of P. falciparum
+"
+DB09019,Bromhexine,DrugBank,https://www.drugbank.ca/covid-19,approved,Mucolytics,"
+Sjogren syndrome
+"
+DB15313,DAS-181,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,"
+Influenza virus infection
+"
+DB15280,Gimsilumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB15148,Lenzilumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,,"
+Chronic myelogenous leukaemia
+"
+DB01190,Clindamycin,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antibiotics,"
+Acne vulgaris
+"
+DB00339,Pyrazinamide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antitubercular Agents,"
+Mycobacterium infection
+"
+DB14545,Hydrocortisone succinate,DrugBank,https://www.drugbank.ca/covid-19,approved,Hormones,
+DB06683,Clevudine,DrugBank,https://www.drugbank.ca/covid-19,investigational,Nucleoside and nucleotide reverse transcriptase inhibitors,"
+Hepatitis B virus infection
+"
+DB14242,Honey,DrugBank,https://www.drugbank.ca/covid-19,"approved,experimental",,
+DB11779,Danoprevir,DrugBank,https://www.drugbank.ca/covid-19,investigational,Amides,"
+Hepatitis C virus infection
+"
+DB11061,Povidone,DrugBank,https://www.drugbank.ca/covid-19,approved,Alkenes,
+DB00878,Chlorhexidine,DrugBank,https://www.drugbank.ca/covid-19,"approved,vet_approved",Antibiotics,"
+Bacterial infection
+"
+DB12453,Chlorine Dioxide,DrugBank,https://www.drugbank.ca/covid-19,investigational,Ions,
+DB00879,Emtricitabine,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anti-HIV Agents,"
+Hepatitis B virus infection
+Hepatitis virus infection
+Human immunodeficiency virus infection
+"
+DB00300,Tenofovir disoproxil,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational","Antivirals for treatment of HIV infections, combinations",
+DB11720,Angiotensin 1-7,DrugBank,https://www.drugbank.ca/covid-19,investigational,Hormones,
+DB12580,Tradipitant,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB15656,AZD1222,DrugBank,https://www.drugbank.ca/covid-19,investigational,Experimental Unapproved Treatments for COVID-19,
+DB00062,Albumin human,DrugBank,https://www.drugbank.ca/covid-19,approved,Albumins,
+DB15654,mRNA-1273,DrugBank,https://www.drugbank.ca/covid-19,investigational,Experimental Unapproved Treatments for COVID-19,
+DB09104,Magnesium hydroxide,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other urologicals,
+DB09145,Water,DrugBank,https://www.drugbank.ca/covid-19,approved,Diluents,
+DB15623,TMC-310911,DrugBank,https://www.drugbank.ca/covid-19,investigational,Anti-HIV Agents,"
+Human immunodeficiency virus infection
+"
+DB01264,Darunavir,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiviral Agents,"
+Human immunodeficiency virus infection
+"
+DB09065,Cobicistat,DrugBank,https://www.drugbank.ca/covid-19,approved,"Antivirals for treatment of HIV infections, combinations","
+Human immunodeficiency virus infection
+"
+DB14845,Filgotinib,DrugBank,https://www.drugbank.ca/covid-19,investigational,"Janus Kinase 1, antagonists & inhibitors",
+DB15669,Fezolinetant,DrugBank,https://www.drugbank.ca/covid-19,investigational,Thiazoles,
+DB15164,Apadamtase alfa,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB14851,Relatlimab,DrugBank,https://www.drugbank.ca/covid-19,investigational,,"
+Haematological malignancy
+Melanoma
+Recurrent glioblastoma
+Solid tumour/cancer
+"
+DB06636,Isavuconazonium,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Antifungal Agents,
+DB11759,Pevonedistat,DrugBank,https://www.drugbank.ca/covid-19,investigational,Cycloparaffins,
+DB10341,Streptococcus pneumoniae type 33f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10334,Streptococcus pneumoniae type 17f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10329,Streptococcus pneumoniae type 10a capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10333,Streptococcus pneumoniae type 15b capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10330,Streptococcus pneumoniae type 11a capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10339,Streptococcus pneumoniae type 22f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10320,Streptococcus pneumoniae type 2 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10326,Streptococcus pneumoniae type 8 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10327,Streptococcus pneumoniae type 9n capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10331,Streptococcus pneumoniae type 12f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10338,Streptococcus pneumoniae type 20 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10323,Streptococcus pneumoniae type 5 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10335,Streptococcus pneumoniae type 18c capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB09877,Corynebacterium diphtheriae,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",,
+DB10319,Streptococcus pneumoniae type 1 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,approved,Actively Acquired Immunity,
+DB10324,Streptococcus pneumoniae type 6b capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10328,Streptococcus pneumoniae type 9v capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10322,Streptococcus pneumoniae type 4 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10325,Streptococcus pneumoniae type 7f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10321,Streptococcus pneumoniae type 3 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10337,Streptococcus pneumoniae type 19a capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10340,Streptococcus pneumoniae type 23f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10336,Streptococcus pneumoniae type 19f capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10332,Streptococcus pneumoniae type 14 capsular polysaccharide antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB10296,Streptococcus pneumoniae type 6a capsular polysaccharide diphtheria crm197 protein conjugate antigen,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Actively Acquired Immunity,
+DB12678,Relamorelin,DrugBank,https://www.drugbank.ca/covid-19,investigational,Peptides,"
+Diabetic gastroparesis
+"
+DB15298,Ontamalimab,DrugBank,https://www.drugbank.ca/covid-19,investigational,,
+DB00410,Mupirocin,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational,vet_approved",Antibiotics,"
+Bacterial infection
+"
+DB02325,Isopropyl alcohol,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Other antiseptics and disinfectants,
+DB14473,Beroctocog alfa,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Proteins,
+DB15528,Onasemnogene abeparvovec,DrugBank,https://www.drugbank.ca/covid-19,approved,Genetic Therapy,
+DB00958,Carboplatin,DrugBank,https://www.drugbank.ca/covid-19,approved,Anticancer Agents,"
+Ovarian cancer
+"
+DB15253,Bleselumab,DrugBank,https://www.drugbank.ca/covid-19,investigational,Proteins,
+DB12952,Methylprednisone,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Cytochrome P-450 Substrates,
+DB08874,Fidaxomicin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antibiotics,"
+Clostridium difficile associated diarrhea
+"
+DB00512,Vancomycin,DrugBank,https://www.drugbank.ca/covid-19,approved,Antiinfective Agents,"
+MRSA infection
+Methicillin-resistant staphylococci infection
+"
+DB01072,Atazanavir,DrugBank,https://www.drugbank.ca/covid-19,"approved,investigational",Anti-HIV Agents,"
+Human immunodeficiency virus infection
+"

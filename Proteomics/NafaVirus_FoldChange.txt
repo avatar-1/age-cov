@@ -1,0 +1,8 @@
+Condition	variable	Age	FoldChange
+Nafa 0.2	Nafa2.CH.476LT.N.M.t1	Child	-5.328363167
+Nafa 0.2	Nafa2.CH.380HK.N.F.t1	Child	-6.17082189
+Nafa 0.2	Nafa2.CH.466BM.N.M.t1	Child	-2.02525187
+Nafa 0.2	Nafa2.OA.023RB.N.F.t1	Older Adult	0.195573069
+Nafa 0.2	Nafa2.OA.024AT.N.F.t1	Older Adult	-4.870736061
+Nafa 0.2	Nafa2.OA.025PT.N.M.t1	Older Adult	-6.161413811
+Nafa 0.2	Nafa2.YA.021CsH.N.M.t1	Young Adult	-5.858836328
